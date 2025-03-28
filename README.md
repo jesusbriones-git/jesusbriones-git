@@ -23,7 +23,7 @@ My strengths include **critical thinking, problem-solving, and effective communi
 - **ITSM Platforms:** ServiceNow  
 
 ### 📈 Visualization & Reporting  
-- **BI Tools:** Tableau  
+- **BI Tools:** Tableau, Power BI
 - **Microsoft Excel:** `Macros`, `Power Query`, `VBA`  
 - **Google Sheets**  
 
