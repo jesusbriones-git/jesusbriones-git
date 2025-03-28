@@ -7,8 +7,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-manuel-garcia-briones-19167b281)  
 
 ## 👋 About Me  
-I am a **Data Analyst** with expertise in **data visualization, automation, and business optimization**.  
-I specialize in building **real-time KPI dashboards**, automating reports, and analyzing complex datasets to drive business decisions.  
+I'm a **passionate Data Analyst** skilled in transforming raw data into actionable insights.  
+I thrive on crafting **dynamic, real-time KPI dashboards**, automating workflows, and dissecting complex datasets to fuel smarter business decisions.  
 My strengths include **critical thinking, problem-solving, and effective communication**.  
 
 ## 🔧 Technical Skills  
