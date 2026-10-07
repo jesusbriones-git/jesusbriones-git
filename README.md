@@ -1,6 +1,6 @@
 # Jesús Manuel García Briones  
 
-**Data Analyst | Snow Admin **  
+** Data Analyst | Snow Admin **
 
 📍 Zapopan, Jalisco, Mexico  
 📧 [garciabrionesj01@gmail.com](mailto:garciabrionesj01@gmail.com)  
